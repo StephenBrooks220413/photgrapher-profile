@@ -1,6 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
+import '../node_modules/mdb-ui-kit/css/mdb.min.css';
+import '../node_modules/mdb-ui-kit/js/mdb.min.js';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
